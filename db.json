@@ -1,0 +1,33 @@
+{
+  "musics": [
+    {
+      "title": "hAI",
+      "artist": "sajdf",
+      "genre": "JSDBSJD",
+      "published": "2220",
+      "id": 1,
+      "": "2220 "
+    },
+    {
+      "title": "Agayy",
+      "artist": "Aguy",
+      "genre": "Ouch",
+      "published": "",
+      "id": 2
+    },
+    {
+      "title": "kjhkgj",
+      "artist": "skdhlgd",
+      "genre": "lkdhglk",
+      "published": "324778",
+      "id": 3
+    },
+    {
+      "title": "s",
+      "artist": "sas",
+      "genre": "sas",
+      "published": "asas",
+      "id": 4
+    }
+  ]
+}
